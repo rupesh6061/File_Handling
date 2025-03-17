@@ -1,0 +1,14 @@
+2025-03-13 00:49:07,943 - ERROR - The error occured:division by zero
+2025-03-13 00:49:07,943 - ERROR - Exception details:
+Traceback (most recent call last):
+  File "C:\Users\aashu\AppData\Local\Temp\ipykernel_2020\2900835918.py", line 12, in <module>
+    result = 5/0
+            ~^~
+ZeroDivisionError: division by zero
+2025-03-13 00:49:13,894 - ERROR - The error occured:division by zero
+2025-03-13 00:49:13,894 - ERROR - Exception details:
+Traceback (most recent call last):
+  File "C:\Users\aashu\AppData\Local\Temp\ipykernel_2020\2900835918.py", line 12, in <module>
+    result = 5/0
+            ~^~
+ZeroDivisionError: division by zero
